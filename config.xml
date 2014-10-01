@@ -10,9 +10,8 @@
         Digit Art Designs Ltd. Team
     </author>
     <feature name="http://api.phonegap.com/1.0/device" />
-	<gap:plugin name="de.appplant.cordova.plugin.local-notification" version="0.7.4" />
-	<gap:plugin name="org.apache.cordova.device" version="0.2.12" />
-	<gap:plugin name="org.apache.cordova.inappbrowser" version="0.2.4" />
+    <gap:plugin name="org.apache.cordova.device" />
+	<gap:plugin name="org.apache.cordova.inappbrowser" />
 	<preference name="phonegap-version" value="3.1.0" />
     <preference name="orientation" value="default" />
     <preference name="target-device" value="universal" />
